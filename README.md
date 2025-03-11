@@ -1,3 +1,5 @@
+# **Google Play Store Analysis**  
+
 ## **Problem Statement**  
 The Google Play Store hosts thousands of apps, making it essential for **developers and investors** to analyze trends and make **data-driven decisions**. This project focuses on **visualizing key insights** from the Play Store dataset using **Power BI**.  
 
